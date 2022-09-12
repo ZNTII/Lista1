@@ -1,9 +1,148 @@
-# EXTM3U
-#EXTINF: -1, disney1
-https://usher.ttvnw.net/api/channel/hls/dk_0150.m3u8?allow_source=true&fast_bread=true&p=6803027&play_session_id=8bd1fcc937e0fb99f32aa342423b4728&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=2c1b8771787cbbe2911c7c42260a016c0e7cfb48&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22dk_0150%22%2C%22channel_id%22%3A802290984%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22L5plYdhiz9FgLi4UTfQQTWphBstCPWpR%22%2C%22expires%22%3A1662846293%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2245.178.14.182%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.13.0
-#EXTINF: -1, disney2
-https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CqoFho9yB0CPl9U50jcw1543Djncz4TwgnXwwz4vqauoipsVZqfgy2NSLKdtB4dBjXhRtej3Ug2VMehT18TLzlvEWlWnjb6edS7MgT6pQqgIJz52MbywLfqj4FqFKVwSjY2CLkNIrRS3JEEr9TuLO4D431_o4Lr0HOCddQSYVnmmReXAQL1XDlu66FljkGnsEWoATyMFfwT-Vv5EIXkK4lUoVfe7MHM6NGQ5pgnVfOJPsoomMuBmW9SHd_isBeUTSf4xx044XkCsyh6iFc2FvqKIWPFxf_T0xPoxW77NfE2cY4rvHyrxXjIfyeDX2jhQnXu4YA1gAacayqhi8YAV1Lh8zc5nD62ra6ismqogGqH-swocDI2vT76Gi7BP74wfHaTbonf1K2eXmr-CT2oP3zh9wKstoco9Tq_4tWMXIYcKeEFurac5cfcN-0qLmiZhwaowZBPnV1D_OhcFm07jwszQ5SLhpGPz9P0e61rz06fNUgF_MZ5O-N8_xqjpTVkhr9lNso-tLRzAzcx22X1BJQhl_43NNSYoYEhHA-vxMfVaJhlhQ1wYvsBlyAqQ7YkhRhAMDr7Tn4wfOhM8dCpU_Qeb4MCSY335rixZ_CPdk62bxY2QFRHahRj7qGTPMWcOcrJRNQIDGfpfOvW-RIbkBaNqiA7x3u_veI_ACM8cZrQ1uKifeYl2YB4cC_2_38HETVu8_DqX6YXkTULwnE1fzhRpDa_D9BjUPBJZvK132IfgsJbHRCMcbyN7rFZ9xSrZEIAGqt1zDkJd6QOHnBAlca17g7mThKY4x5dwiCCKRYft9X3qkr3tTgDigWt2zRLJTZL2nndm9Dj2aWS1poJppCxC2eMGgngF5r-WTCGlVKUsEtTlfppzsKFnmkLEeasV_CZHloYIriK86qzIQxoMTbwSwUV5Dt-gDyD3IAEqCWV1LXdlc3QtMjDTBA.m3u8
-#EXTINF: -1, disney3
-https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CqgFwPrmEvaX9ELOUwNgiXGcxvMcc2_ywYPl0Evir2U6YaMHu0zK8BCckWuBPDbgmJozjb0K8eF_Fw9QfTuk-F5ZzR3uZqbtWDHDjrnWQRlCAuPQufU069GokpzRi4qjfvvBkX30W8syTPFCTh6-yh3iC5ULYwx2JUVzXvD3IW6OXcXc4vWuH-5LuZQolJHZvEigXFkvIcUUVWCOebPfabH6MjnRiRuSmAO0VpdSy-GvuROT5j1pFpZSMaGudn_HmA4e1rAe3HQul8wterX6My__CX_1YPRujKOvK_flbGoz2DRCP-yjwNc-zwYJns_25BV8bFnldsyp6vo7aLO_pW4Mt5qm0tBD_pqDUaWtNOdVJrlgmP4NGv7b9NTHen-Vwpn0ehUNSUZG4Zlumy95l28kIwdbTQ9PlzHlFb2YnpDiOkNzQEq-g932qudwMWzHeXjBC3D8pAPtU2juiwHMxLqnm2doJ1JSyFV9lXS_uHP6l_0khf9A9wGCk9rPgdoCNsnJXcpPjCVytGxM-qnGnUlLMAerB1uySX1ndbK-e4UZE6cLMTBj_TsDYfOfmrjt-bBH1bJNRXpJOuaymwY5tUo_5nKZaHxHQfWcIgDpOEPLFD4Q92zXOPzTVSRaPVn2tnQ1hk49yWqrLxLdj1WbVR0B9ErjC6KMbUSG_SsTVsboZULz_n6h8SPsrwZzezZIPlNsnahE0k_NtWCnPbB7g5Tyli-fb9dcvvveftCSyxEzHKuWxi7nuWDjcPxa6rT2jzT79AopdVuFlBWr66__9cjj9r1Wch_k9lUw-ScaKPheCCAV5LwgdT5u81jyIvCfZhjI3XiChw-XqMbTOc1AU7aAMPg43eDToj7hj_9yMCKg5l7xe03mI25JOVpQPZwtQT_jYWIzH1TyUIgaDAkTTfrcV6FcWlJQ8iABKglldS13ZXN0LTIw0wQ.m3u8
-#EXTINF: -1, disney4
-https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CqgF7US0gluErJ3U9ILLHr1DGcS4_vjmU5nD9EtH-apVnIytSIlTOsyg8it6fPBGECoZSeurCcupligTtqLA6hOxyskkRUj9uKwLE0Zvt0FHuXoBSU7L2QmwmVOoeWoO2qTR0XviAGIm3D2KtfvKWvdI8YOlsXAsXRQhPD4FR7Nfhc6RtlaRUNMq1m0S7taI1fi0EY4R9YCZEdP67GthIRVYqmHmL_3UK1lWntXM4U97Eler1nNHMFoRQHEVYhs57B9KktRKkY4cTpmklgLkwRnumX-fTYvQ-3OMfWwvAuLc_8CLlgM8RuCXLQp9nQ1IQ6y8EERpU0dYyvJey7Q0D2uwiW1xk2i4iSgpFi_uCFQNO3FoA7oM3mY1S7hHDGcAatc4h3XABoKi2x_HEtzfRtizmZfB8f8scue4xs0PLXTbsp-zhkDUFG92Kc2IhY4udoE09M4wi_BQePiaOTereuoG14rMSeaIVQo20lwqZkDGjNwCucbuycXbTIt-BTeO7ktysKAlIMFuPTISVQdH91qIobHXXHMYCcIIRo5hEdJl4hq0oRyq71dFxCGTfnLZcdRVnzOiq3HFfdI8F6djxh6inZ2mxpjKscZMDrQkLEX0E4TVsEt8D2mRetdKcK57aN4Abf-BiNTcEQLCxZDk4HYqUThIh6FdljIwm8FCzpgnx3a9Q6Apl6c7jeGvPgkfCeSWeultPTibRWzmQItc_wUp7VjyFywHMmqTv8ZOM8f9CLaTs8HyQW_9T2pooj7Bq14q9p84i0BLJ3QupqTC2fHAgzD5Byudo2b6IuZmjn_EJxN6BRACM0rDfO1GmDM1AVzzmy39hiEczhCXg8UiDDO0DfkUI5XkRW_UjW3XUW3brHyLbor3dVwOwoMxvNslQ2D_PiFbs-ZkuegaDOA3fMOewtx5ki1P1CABKglldS13ZXN0LTIw0wQ.m3u8
+#EXTM3U
+#EXTINF:0,PLUTO TV VELOCIDAD
+#EXTGRP:DEPORTES Y COMPETENCIAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
+#EXTINF:0,PLUTO TV MOTOR
+#EXTGRP:DEPORTES Y COMPETENCIAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21631ca0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f2dbf57-290d-486d-a430-704e5a67cf6f&userId=&serverSideAds=true
+#EXTINF:0,DEPORTV
+#EXTGRP:DEPORTES Y COMPETENCIAS
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
+#EXTINF:0,La selecc10n
+#EXTGRP:DEPORTES Y COMPETENCIAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
+#EXTINF:0,PLUTO TV PELEAS
+#EXTGRP:DEPORTES Y COMPETENCIAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
+#EXTINF:0,PLUTO TV COMPETENCIAS
+#EXTGRP:DEPORTES Y COMPETENCIAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c3600a0-cf5d-4708-b2b3-adcada18c483&userId=&serverSideAds=true
+#EXTINF:0,GLORY KICKBOXING TV
+#EXTGRP:DEPORTES Y COMPETENCIAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
+#EXTINF:0,PLUTO TV ANIME
+#EXTGRP:ANIME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
+#EXTINF:0,ANIME HEROES
+#EXTGRP:ANIME
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,PLUTO TV ANIME ACCIÓN
+#EXTGRP:ANIME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
+#EXTINF:0,ANIME ZONE TV
+#EXTGRP:ANIME
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:0,NARUTO
+#EXTGRP:ANIME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
+#EXTINF:0,90S KID
+#EXTGRP:NIÑOS Y ADOLESCENTES
+https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
+#EXTINF:0,CARTOON NETWORK
+#EXTGRP:NIÑOS Y ADOLESCENTES
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:0,RETRO CARTOONS
+#EXTGRP:NIÑOS Y ADOLESCENTES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,DREIKO TV
+#EXTGRP:NIÑOS Y ADOLESCENTES
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+#EXTINF:0,REAL MONSTERS
+#EXTGRP:NIÑOS Y ADOLESCENTES
+https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w1539971601.m3u8
+#EXTINF:0,PLUTO TV TEEN
+#EXTGRP:NIÑOS Y ADOLESCENTES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fe342837-658e-4c01-af1b-63c86a3ccece&userId=&serverSideAds=true
+#EXTINF:0,KENAN & KEL
+#EXTGRP:NIÑOS Y ADOLESCENTES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff4bb60-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7bb7672d-32f3-4e6a-9ff0-3e2488d68da1&userId=&serverSideAds=true
+#EXTINF:0,RUGRATS CRECIDOS
+#EXTGRP:NIÑOS Y ADOLESCENTES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22355-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d35c3c-b9bc-4c57-92f3-6ec7da17e471&userId=&serverSideAds=true
+#EXTINF:0,LAS PISTAS DE BLUE
+#EXTGRP:NIÑOS Y ADOLESCENTES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49450-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2dab1e46-b757-41f4-af9a-7a988974b383&userId=&serverSideAds=true
+#EXTINF:0,BABAR
+#EXTGRP:NIÑOS Y ADOLESCENTES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc42-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4dd50492-4fb9-436b-9efe-56335cf7502f&userId=&serverSideAds=true
+#EXTINF:0,EL CHAVO
+#EXTGRP:NIÑOS Y ADOLESCENTES
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:0,SOUTH PARK
+#EXTGRP:ANIMACIÓN PARA ADULTOS
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/609ae5cd48d3200007b0a98e/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=AQzzBGQEIGBzv-ovmsMY-nqeC7E6Z01Ol41uv5hBk4IQnarRrzEQlDu4ZF3YPzPTwF0lqgc5-V66qSm8T_QiksUqZyzGkbFbYjB2mW893EpBcP9XqIC19InxFONtFjGZpb6mTXNmFofrzhM4Vw6ug9TqBcFKqbGxSn8EmBFnXDy2I6-l0JzGCfDur4ET1cWV3BfSO5F_X-6DArYMfxnl6PDpzSXDyOF55sf5nvBG4Rr1rMtxnx-L9RvqxqwtNgq4lVhf0VD0yzUQ4oEJhkv5hBm0CUB6c7veWnxlmWXAdevy9KqE5UCWpbvGtW-vc21cr__8gQL1GObHRK0V0Tv6pyBHUHklRG7v4l8G-kOw4ejcgnIr3_DbbVtaE-XN3lWAEjZx95hNq9ixcxdbMpHte-4PfB8zBd8LK6K2C4B7wWWWGPWiRiG5Djh68z-ltkcCTua-8PT5AqFEm5M78ur4pZaxBMcPJPjYa8qd8xdHdSvDn8n9H6pcixZA7YJoHCgttaMXeHbDpOpw9WGbULnHiCSuh9JmyxVNDU8K-MzydcrZs5DrZNE2M5bM7nYoL0z-QyttjN6dU1qAt2Gehyua0kcydtiqoMH16tqnxnU8u3j9t4by8U18Sdc4GlrQr_lfj7racF0pgJ4d2KJE2isNgOCYETU35c70gtDLu6BhFVxerDNpuVn93XdHpM-2VRJYPIs8CpbKxNDzWrOB8aDF4zZyX2g08Ek0IgxfqFh2Pk9AbcfFvkdXh8l-iGPBNut19GRuhGTH47oyJbFVmdjNyG6OvtBpTdnF9MgzRt3ChD-kdq0r5X-tMjsBpI2pUjdq68uZj3w32ffn1SktmRevgfqKbqoaVK51EqqAWmzthfdZw-jV0ubwkbK_PsTs1CV2EwZ26wMFNiTz5MvRXHCqtzpbTJh5H4XLrJWGJs7Iun0FvwTq_x4Y9ycTkR9tugGn0g1FxAd7SQiruIRUOy-8WhWA1qnOCZh9OMMpseWw_WO4yNUADxQ8eG2JWgfSAxHbwFeH5dLdwRJcP4KMM80p3Wb1wsHwUa8Ur21UnHOdglHvVXZpb_ADarXug217oNqNJXa0ryIj_AEyoc54EydK6P03h2Eb7EZH34bKefWtABjjeWclenbywLnxd9TLX6A0G_a4AuA_5Gi0RgJL9syoos0LTfkZYJtaN8S_QGu_hOKqKf25xirNRr4cZzwkZmRngtekFRVscuA5gxdkdaV-0hQpg293RvqxPn9qk-_-XE-AzylJNrsiJ51A7fyo3fNcuRJrjavEpKmNzqc72qdsvdvntCO9HcCNXb1ezMOdf5Bt8qL0SSdyxiM3jQyqrFxdVxsGniG3KKM1uE_Pisd9h7DCLSjl2frI5ZTrK7UxJPmELbRqfChDk4n52U1XUUHHOCvuoTLT5c9JtOpAqQaRYu-L9V2rbGLMNnPdh70hRQNvSNPuwwIYXhYsJUbrPfvQygPbMAG9Eczb&includeExtendedEvents=&architecture=&deviceId=77683990-6196-4f59-b4de-a895c8223554&deviceVersion=105.0.0&appVersion=6.4.1-e1db5348259c97a434c6082c13e731effe994d26&deviceType=web&deviceMake=chrome&sid=3b6ad75b-3144-11ed-a28e-0242ac110003&advertisingId=&deviceLat=6.2529&deviceLon=-75.5646&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjYyMWQwMTUzLWVmMTgtNDY0Zi05YjYyLWU1YWViMzBmZGI2NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzYjZhZDc1Yi0zMTQ0LTExZWQtYTI4ZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE3OC4xNC4xODIiLCJjaXR5IjoiTWVkZWxsw61uIiwicG9zdGFsQ29kZSI6IjA1MDAwMiIsImNvdW50cnkiOiJDTyIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjYuMjUyOSwiZGV2aWNlTG9uIjotNzUuNTY0NiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTA1LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNi40LjEtZTFkYjUzNDgyNTljOTdhNDM0YzYwODJjMTNlNzMxZWZmZTk5NGQyNiIsImNsaWVudElEIjoiNzc2ODM5OTAtNjE5Ni00ZjU5LWI0ZGUtYTg5NWM4MjIzNTU0IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQm9nb3RhIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY2Mjg2OTI2NCwianRpIjoiMmJlZTUxOTAtODgyOC00YWJmLWJmMDAtMDU3NDYwMGM2MmQ2IiwiaWF0IjoxNjYyODQwNDY0LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpjMk9ETTVPVEF0TmpFNU5pMDBaalU1TFdJMFpHVXRZVGc1TldNNE1qSXpOVFUwIn0.ZFwj8oQPPMrDkokoKyJj-w4C0viNwNexJI6mvCnzF_c
+#EXTINF:0,PARAMUNT+ PRESENTA
+#EXTGRP:CINE Y SERIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,SERIES
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
+#EXTINF:0,SERIES LATINAS
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
+#EXTINF:0,RETRO PLUS TV CINE
+#EXTGRP:CINE Y SERIES
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:0,CINE PREMIERE
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eeb650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d68de35-eba9-49ed-8345-3e39294775b8&userId=&serverSideAds=true
+#EXTINF:0,CINE ESTELAR
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
+#EXTINF:0,CINE CLÁSICO
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6026fca0-c970-11eb-8484-c3c002d1fa3f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d0e47f8-f10a-4450-8221-6f3976c9f746&userId=&serverSideAds=true
+#EXTINF:0,CINE FAMILIA
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
+#EXTINF:0,CINE ACCIÓN
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
+#EXTINF:0,CINE ADRENALINA
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0ffcd50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a432784-0445-4dce-b1c8-3ec58a005793&userId=&serverSideAds=true
+#EXTINF:0,CINE SUSPENSO
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true
+#EXTINF:0,CINE TERROR
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00070-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c808f376-3c51-4ce4-8dc1-f9b1e9c494cc&userId=&serverSideAds=true
+#EXTINF:0,CINE TERROR 2.0
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31d6ed5a-e18e-40e7-86c3-072f2b86df3c&userId=&serverSideAds=true
+#EXTINF:0,CINE COMEDIA
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfefd960-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=91842cfa-96ff-4c3a-b034-234b53b31245&userId=&serverSideAds=true
+#EXTINF:0,CINE XOXO
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115ed60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f83ca203-9359-411e-a06a-f401bb16ab3a&userId=&serverSideAds=true
+#EXTINF:0,CINE ROMANCE
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
+#EXTINF:0,CINE DRAMA
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00072-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e24734a-39dc-48e4-8068-40d233385993&userId=&serverSideAds=true
+#EXTINF:0,CINE LATINO
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d22-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7915058d-f10f-499c-be51-3669a8f4bd35&userId=&serverSideAds=true
+#EXTINF:0,ESTRELLAS DE ACCIÓN
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
+#EXTINF:0,SÉPTIMO ARTE
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eedd60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05e50493-989d-41b8-b7ad-f17f965c8f4a&userId=&serverSideAds=true
+#EXTINF:0,THE WALKING DEAD
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
+#EXTINF:0,CSI EN ESPAÑOL
+#EXTGRP:CINE Y SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
+#EXTINF:0,LOS SIMPSONS
+#EXTGRP:CANALES
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CsAFc1Nw8ro5n5yoxIuzUAbxiQOBkuOUxAXAsBQ1_6kmU8UPB-_soDSrYkhF3379Y2PUVrHX7VnExSNwS5f_6q8-VZgfpMah-WGgADbpIEXs9I-Yso6qG5GQAGmduPxXXLCGvxRmAM7fbjX0j6uxKc_vmC3Hll4JvO7w_WE0vgCdghduz0aQgj6gpI8islUFfpROM1DuUCaMqKw-bpBzixMGsJbdovyQoXs_UO-n0J9Yi3a6IA5U_lspKzlVLeTsLmLP66ETNioG-LAJLy8U38m5vdtKAHGx7QDTE7ATbQ4xy_K_Wb_PmgR-HplI4ecja055veuTIY3p09E8WRUUHRjbO4XRin-FclQBH2RvAQXbGU4hZKOdBpoIpiz4Kf-x7JHA8i0o8es3xF0us3VgDFV2AYRJnp6eOnV-N2BLyS-HzP8lKAZaxhY0Mk9OpCNh774zs4fpvWm522a7gC_rA7D4L5_hG7YF8N3M5-epANkLma5UQy27joSrGhQ-JhY89ncOjivcD-3lad2aMIW-hCp-DnKNzok2_pukkLJNBwt65T3CowEIVg2bou7-IublBcWvPKTiTiXKOjDqnn_L3zL2tFwQzuNNiLGFRRB9LHKQWsvPK2zJjx8Mb04MrgvPVHBb0VmTqFH2sYApGmvpFgjhiZ2k9DgSZPrKt7Zkn2SBlOwWk1CglZHIoWh8B15RKDvzSbCGeZV-BNyUwQPBmQGfg5ydSBIOkURkkMssP8iPqZJhIhTShAGZdoiZQ8my2W4hXQZ7X-ObNWtTCablUcIaXujZV031QZoVV2ekoY68biEbxrQw8CQOtQeSxJFOdOKlL9hzOPmDp5Unu-PVrzDhCCIW0VT7dJ4NaWvu7mAwtQFizk3-aqM59fLB53BUPH3kD9cSOBh0jvDQreFcoG627JZ3JqJmqccmoukRUlZJcT0aDGs7lGUZRNEzn8YNxiABKgl1cy1lYXN0LTIw0AQ.m3u8
+#EXTINF:0,24h
+#EXTGRP:Noticias
+https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
+#EXTINF:0,TU CINE
+#EXTGRP:CINE
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/1920x1080_5055600/index.m3u8
